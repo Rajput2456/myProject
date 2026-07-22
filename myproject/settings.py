@@ -14,8 +14,6 @@ from pathlib import Path
 from decouple import config
 # python-dotnev
 
-import dotenv
-import os
 # load_dotenv()
 # a = os.getenv("SECRET_KEY")
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
